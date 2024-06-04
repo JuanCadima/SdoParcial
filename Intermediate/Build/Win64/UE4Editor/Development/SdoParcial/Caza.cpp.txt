@@ -1,0 +1,5 @@
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Definitions.SdoParcial.h
+E:\Progamacion\Sis457\SdoParcial\Source\SdoParcial\Caza.h
+E:\Progamacion\Sis457\SdoParcial\Source\SdoParcial\NaveEnemiga.h
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Inc\SdoParcial\NaveEnemiga.generated.h
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Inc\SdoParcial\Caza.generated.h

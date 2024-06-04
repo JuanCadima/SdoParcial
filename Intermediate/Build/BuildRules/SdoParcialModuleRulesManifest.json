@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Progamacion\\Sis457\\SdoParcial\\Source\\SdoParcial\\SdoParcial.Build.cs",
+		"E:\\Progamacion\\Sis457\\SdoParcial\\Source\\SdoParcial.Target.cs",
+		"E:\\Progamacion\\Sis457\\SdoParcial\\Source\\SdoParcialEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

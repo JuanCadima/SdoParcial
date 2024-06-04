@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SdoParcial",
+			"Path": "E:\\Progamacion\\Sis457\\SdoParcial\\Source\\SdoParcial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SdoParcialEditor",
+			"Path": "E:\\Progamacion\\Sis457\\SdoParcial\\Source\\SdoParcialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

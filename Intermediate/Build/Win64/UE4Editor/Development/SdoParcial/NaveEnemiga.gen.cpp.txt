@@ -1,0 +1,5 @@
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Definitions.SdoParcial.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Progamacion\Sis457\SdoParcial\Source\SdoParcial/NaveEnemiga.h
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Inc\SdoParcial\NaveEnemiga.generated.h

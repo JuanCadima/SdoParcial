@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SdoParcial.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4B7A3E90-0A37-4B96-9069-757DEC89FF4B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SdoParcial.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SdoParcialEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9C5FB5E8-8A82-4D26-A79D-057C8CDB4A5F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SdoParcial">
+      <UniqueIdentifier>{9F8E0BFC-F709-484F-9452-F9E451F3F047}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SdoParcial\Caza.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\Caza.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\Escuadrones.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\Escuadrones.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\FabricaCazas.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\FabricaCazas.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\NaveAbstracFactory.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\NaveAbstracFactory.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\NaveEnemiga.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\NaveEnemiga.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SdoParcial\SdoParcial.Build.cs">
+      <Filter>Source\SdoParcial</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SdoParcial\SdoParcial.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\SdoParcial.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\SdoParcialGameMode.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\SdoParcialGameMode.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\SdoParcialPawn.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\SdoParcialPawn.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SdoParcial\SdoParcialProjectile.cpp">
+      <Filter>Source\SdoParcial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SdoParcial\SdoParcialProjectile.h">
+      <Filter>Source\SdoParcial</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

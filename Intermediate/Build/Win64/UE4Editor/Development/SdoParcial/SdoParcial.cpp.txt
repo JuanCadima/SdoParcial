@@ -1,0 +1,2 @@
+E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Definitions.SdoParcial.h
+E:\Progamacion\Sis457\SdoParcial\Source\SdoParcial\SdoParcial.h
