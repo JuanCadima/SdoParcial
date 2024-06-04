@@ -32,12 +32,6 @@
     <Filter Include="Source\SdoParcial">
       <UniqueIdentifier>{9F8E0BFC-F709-484F-9452-F9E451F3F047}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\SdoParcial\Caza.cpp">
-      <Filter>Source\SdoParcial</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SdoParcial\Caza.h">
-      <Filter>Source\SdoParcial</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\SdoParcial\Escuadrones.cpp">
       <Filter>Source\SdoParcial</Filter>
     </ClCompile>

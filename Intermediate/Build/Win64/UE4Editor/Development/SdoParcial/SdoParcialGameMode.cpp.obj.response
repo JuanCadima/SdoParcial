@@ -262,8 +262,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\SdoParcialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\SdoParcialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\SdoParcialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "E:\Progamacion\Sis457\SdoParcial\Source\SdoParcial\SdoParcialGameMode.cpp"
-/FI"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Definitions.h"
+/FI"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Definitions.SdoParcial.h"
 /Fo"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\SdoParcialGameMode.cpp.obj"
 /TP
 /GR-

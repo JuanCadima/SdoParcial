@@ -34,6 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\SdoParcialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Caza.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Escuadrones.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\FabricaCazas.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\NaveAbstracFactory.cpp.obj"
@@ -42,6 +43,7 @@
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\SdoParcialGameMode.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\SdoParcialPawn.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\SdoParcialProjectile.cpp.obj"
+"E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Caza.gen.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\Escuadrones.gen.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\FabricaCazas.gen.cpp.obj"
 "E:\Progamacion\Sis457\SdoParcial\Intermediate\Build\Win64\UE4Editor\Development\SdoParcial\NaveAbstracFactory.gen.cpp.obj"
